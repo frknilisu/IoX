@@ -1,0 +1,25 @@
+{
+  "name": "frkn",
+  "version": "1.0.0",
+  "description": "Firebase Ethereum Sync",
+  "main": "fb.js",
+  "scripts": {
+    "start": "node fb.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transmute-industries/monarch-chain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/transmute-industries/monarch-chain/issues"
+  },
+  "homepage": "https://github.com/transmute-industries/monarch-chain#readme",
+  "dependencies": {
+    "firebase": "^3.4.0",
+    "web3": "^0.17.0-beta",
+    "serialport": "^6.0.4"
+  }
+}
